@@ -34,7 +34,6 @@ public class Beer {
    private Float rating;
    private String status;
 
-
    public Beer(){
 
    }
